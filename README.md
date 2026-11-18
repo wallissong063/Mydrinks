@@ -1,6 +1,6 @@
 # Mydrinks
 page link: https://github.com/wallissong063/Mydrinks
-# 👾 Olá! Eu sou take-cheeze
+# 👾 Olá! Eu sou wallisson.
 
 🎮 Desenvolvedor apaixonado por jogos e pela era de ouro dos videogames.
 
